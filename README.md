@@ -10,4 +10,4 @@ HW3: MEBM
 
 HW4: lorenz system + GCM analysis
 
-Final project: 2 layer EMB with carbon cycle
+Final project: 2 layer EMB with carbon cycle: examining the linear relationship between global temperature and cumulative carbon emissions
